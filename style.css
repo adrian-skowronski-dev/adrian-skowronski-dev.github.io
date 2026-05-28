@@ -76,6 +76,15 @@ body {
   line-height: 1.4;
 }
 
+.header__role--secondary {
+  margin-top: 2px;
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-dim);
+}
+
 .header__location {
   margin: 0;
   font-family: var(--font-mono);
